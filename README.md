@@ -12,7 +12,6 @@ Windotfile/
 ├── WindowsPowerShell/     # PowerShell scripts and configurations
 │   └── Scripts/           # Custom PowerShell scripts
 └── scripts/               # Utility scripts and setup notes
-    └── windows-setup.ps1  # Windows configuration scripts
 ```
 
 ## Contents
